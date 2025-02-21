@@ -1,5 +1,5 @@
 # Data-Analytics-bootcamp
-Data Analysis Bootcamp
+Data Analysis Bootcamp :
 📖 Learning Outcomes
 The bootcamp provided hands-on experience in data visualization, preprocessing, exploratory analysis, and big data technologies. Emphasis was placed on leveraging Python libraries such as Pandas, Matplotlib, Seaborn, and Plotly to analyze and interpret complex datasets.
 
