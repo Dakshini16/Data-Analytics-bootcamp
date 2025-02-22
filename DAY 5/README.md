@@ -54,8 +54,3 @@ Challenges Faced:
 Output:  
 ✔ A fully functional interactive dashboard for cricket analytics.  
 
----  
-
-🔔 **Summary**  
-Day 5 focused on **text analysis, feature extraction, and data visualization**. The hands-on tasks provided insights into **natural language processing, cricket analytics, and interactive dashboards**. Looking forward to applying **machine learning techniques in upcoming sessions! 🚀**
-
