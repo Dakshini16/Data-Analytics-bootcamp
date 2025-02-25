@@ -1,3 +1,4 @@
+DAY 6:
 📌 IPL Commentary Scraper - What I Learned :  
 🔹 Understanding `robots.txt` & Web Scraping Ethics : 
 - Explored `robots.txt` for Amazon, ESPN Cricinfo, and Instagram to understand scraping limitations.  
